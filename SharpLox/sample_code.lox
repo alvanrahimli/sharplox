@@ -1,0 +1,6 @@
+﻿
+
+fun salam() {
+	var x = 15;
+	print x;
+}

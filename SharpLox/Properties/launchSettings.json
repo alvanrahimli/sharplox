@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SharpLox": {
+      "commandName": "Project",
+      "commandLineArgs": "sample_code.lox"
+    }
+  }
+}

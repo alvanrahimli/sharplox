@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpLox", "SharpLox\SharpLox.csproj", "{35C1E16C-C4E3-4907-8ED2-E9B85ABA2BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLox.CodeGen", "SharpLox.CodeGen\SharpLox.CodeGen.csproj", "{9F253C43-0043-41B1-BD2E-E6F7AFAFC116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C1E16C-C4E3-4907-8ED2-E9B85ABA2BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C1E16C-C4E3-4907-8ED2-E9B85ABA2BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C1E16C-C4E3-4907-8ED2-E9B85ABA2BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C1E16C-C4E3-4907-8ED2-E9B85ABA2BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F253C43-0043-41B1-BD2E-E6F7AFAFC116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F253C43-0043-41B1-BD2E-E6F7AFAFC116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F253C43-0043-41B1-BD2E-E6F7AFAFC116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F253C43-0043-41B1-BD2E-E6F7AFAFC116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B3E3792-5002-4056-8E38-1671F8FB475C}
+	EndGlobalSection
+EndGlobal
